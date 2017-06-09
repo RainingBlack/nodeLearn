@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{learnNode/node_modules}" />
+    <file url="PROJECT" libraries="{learnNode/node_modules, node-7z-DefinitelyTyped, node-DefinitelyTyped, react-DefinitelyTyped, react-native-DefinitelyTyped}" />
+    <includedPredefinedLibrary name="ECMAScript 6" />
+    <includedPredefinedLibrary name="WebGL" />
+  </component>
+</project>
